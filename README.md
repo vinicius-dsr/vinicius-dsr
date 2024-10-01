@@ -5,8 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusreis-pgm)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_dev/)
 
-![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-dsr&show_icons=true&theme=dark)
-
 ## Principais tecnologias
 
 <div style="diplay: inline_block">
