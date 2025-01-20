@@ -21,5 +21,5 @@
 
 ### Ultimos projetos:
 - [Agenda Paragominas](https://github.com/vinicius-dsr/agenda-paragominas)
-- [Site Portfolio](https://github.com/vinicius-dsr/vinidev-site)
+- [Site Portfolio](https://github.com/vinicius-dsr/vinidev-astro)
 - [Blog MDX](https://github.com/vinicius-dsr/mdx-blog)
