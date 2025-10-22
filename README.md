@@ -20,6 +20,8 @@
 </div>
 
 ### Ultimos projetos:
-- [Agenda Paragominas](https://github.com/vinicius-dsr/agenda-paragominas)
-- [Site Portfolio](https://github.com/vinicius-dsr/vinidev-astro)
+- [Telegram Downloader Tools](https://github.com/vinicius-dsr/Telegram-Downloader-Tools)
+- [zapBot](https://github.com/vinicius-dsr/zapBot)
 - [Blog MDX](https://github.com/vinicius-dsr/mdx-blog)
+- [Aptus](https://telemedicina-beige.vercel.app/)
+- [Telemedicina](https://telemedicina-beige.vercel.app/)
