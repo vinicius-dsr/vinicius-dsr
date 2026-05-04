@@ -1,6 +1,3 @@
-## Olá ! Eu sou Vinícius Reis 😎
-### Freelancer, Designer & Desenvolvedor
-
 [![Portfolio](https://img.shields.io/badge/site_portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://viniciusreis.site/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusreis-pgm)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_dev/)
@@ -22,5 +19,3 @@
 ### Ultimos projetos:
 - [Telegram Downloader Tools](https://github.com/vinicius-dsr/Telegram-Downloader-Tools)
 - [zapBot](https://github.com/vinicius-dsr/zapBot)
-- [Aptus](https://telemedicina-beige.vercel.app/)
-- [Telemedicina](https://telemedicina-beige.vercel.app/)
